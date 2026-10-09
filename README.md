@@ -34,14 +34,17 @@ I'm open to **full-time AI / ML developer roles** and **freelance projects**. If
 | [**Fuel Stop Planner**](https://github.com/ubaidurrehman-developer/Fuel_Stop_Planner) | Django JSON API that plans cost-optimal fuel stops along a US route within a 500-mile tank range, using OSRM routing | Django, OSRM, SQLite |
 | [**Ghar ka Zaiqa**](https://github.com/ubaidurrehman-developer/Ghar_ka_zaiqa) | Client project for a home-kitchen business: storefront with chef and admin dashboards and a JWT-authenticated API | React 19, Tailwind, FastAPI, MongoDB |
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ubaidurrehman-developer&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidurrehman-developer&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+    <img src="assets/contributions-light.svg" alt="Contribution activity over the last year" width="100%">
+  </picture>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ubaidurrehman-developer&theme=tokyonight" alt="GitHub streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidurrehman-developer&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ## 📫 Let's Work Together
